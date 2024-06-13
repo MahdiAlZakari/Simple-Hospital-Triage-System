@@ -40,5 +40,5 @@ Users can select an option by entering the corresponding number. The system prov
 Contributions to this project are welcome. You can improve existing features, add new functionalities, or suggest improvements by opening an issue or sending a pull request.
 
 ## Note
-This is my very first try to implement a c++ simple system so there might be some errors, feel free to improve it
+This is my very first try to implement a c++ simple system so there might be some errors, It was created November 14, 2022, feel free to improve it
 
