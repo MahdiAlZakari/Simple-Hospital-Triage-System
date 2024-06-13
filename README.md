@@ -1,7 +1,3 @@
-Here's a detailed GitHub project description for your Simple Hospital Triage System implemented in C++:
-
----
-
 # Simple Hospital Triage System
 
 This project is a simple and effective C++ console-based application designed to manage patient triage in a hospital setting. It employs a queue system to handle patient entries based on urgency, identified by Triage Levels. The system facilitates the addition and removal of patient records, prioritizing care based on the critical nature of their conditions.
